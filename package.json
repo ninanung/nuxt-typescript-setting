@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-typescript-setting",
+  "version": "1.0.0",
+  "description": "Nuxt.js and TypeScript setting study",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninanung/nuxt-typescript-setting.git"
+  },
+  "keywords": [
+    "nuxt"
+  ],
+  "author": "ninanung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninanung/nuxt-typescript-setting/issues"
+  },
+  "homepage": "https://github.com/ninanung/nuxt-typescript-setting#readme",
+  "dependencies": {
+    "@nuxt/types": "^2.15.7",
+    "@nuxt/typescript-build": "^2.1.0",
+    "nuxt": "^2.15.7",
+    "nuxt-property-decorator": "^2.9.1"
+  }
+}
